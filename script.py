@@ -1,3 +1,5 @@
+conflicts 2
+
 aera trap script
 
 Read data file

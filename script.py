@@ -1,3 +1,5 @@
+conflicts1
+
 correct the spell
 
 camera trap script

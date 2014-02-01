@@ -1,3 +1,5 @@
+# All rights reserved
+
 conflicts1
 
 correct the spell

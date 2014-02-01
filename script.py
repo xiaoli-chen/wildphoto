@@ -1,4 +1,6 @@
-aera trap script
+correct the spell
+
+camera trap script
 
 Read data file
 
